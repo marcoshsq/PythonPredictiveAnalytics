@@ -1,3 +1,12 @@
+# Script:
+# 1. importing the relevant Libraries (Turtle, Pygame.);
+# 2. Create the game screen;
+# 3. Create the paddles , their positions, shapes and colors;
+# 4. Movement function, and Player commands;
+# 5. Create the ball, add collision;
+# Note: collision goes inside the main game loop.
+# 6. Finally, details, score, texts & etc.
+
 import turtle
 import winsound
 
