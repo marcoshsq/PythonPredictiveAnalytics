@@ -1,3 +1,9 @@
+# script:
+# Import relevant libraries;
+# Create program logic;
+# Ask for the user's move;
+# Create the scenarios (draw, win and lose).
+
 import random
 import time
 
