@@ -69,11 +69,35 @@ class Bird:  # Object Bird
         self.height = self.y
 
     def move(self):
+        """Function responsible for making the bird animation cicle."""
         # Calculate the move.
+        self.time += 1
+        displacement = 1.5 * (self.time**2) + self.velocity * self.time
 
         # Restrict movement.
+        if displacement > 16:
+            displacement = 16
+
+        elif displacement < 0:
+            displacement -= 2
+
+        self.y += displacement
 
         # Calculate the cycle of the bird's animations.
+        if displacement < 0 or self.y < (self.height + 50):
+            if self.angle < self.MAXIMUM_ROTATION:
+                self.angle = self.MAXIMUM_ROTATION
+
+        else:
+            if self.angle > -90:
+                self.angle -= self.ROTATION_SPEED
+
+    def draw():
+        # choose an icon.
+
+        # change icon.
+
+        # Draw icon.
         pass
 
 
