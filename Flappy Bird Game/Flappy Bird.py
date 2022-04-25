@@ -8,7 +8,7 @@ from soupsieve import (
 
 # 01. The constant values of the game:
 
-# The screen configurations.
+# The screen configurations. 
 SCREEN_WIDTH = 500
 SCREEN_HEIGHT = 800
 
@@ -69,7 +69,7 @@ class Bird:  # Object Bird
         self.height = self.y
 
     def move(self):
-        """Function responsible for making the bird animation cicle."""
+        """Function responsible for making the bird animation cycle."""
         # Calculate the move.
         self.time += 1
         displacement = 1.5 * (self.time**2) + self.velocity * self.time
