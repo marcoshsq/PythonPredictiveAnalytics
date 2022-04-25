@@ -1,54 +1,13 @@
-pagodao = print(
-    "Esse é o texto: \n\n"
-    f"Nunca pensei que você."
-    f"\nMe deixaria desse jeito."
-    f"\nSem ____ direito."
-    "\n"
-    f"\nImaginei que fosse um ____ qualquer."
-    f"\nUma aventura de amor."
-    f"\nMas meu coração me ____."
-    f"\nE agora meu ____ é seu mundo."
-    f"\nSeu corpo em meu ____ é um só."
-    f"\nÉ um sentimento maior."
-    "\n"
-    f"\nTe amo como nunca amei ____."
-    f"\nTe ____ como nunca quis um dia ____."
-    f"\nVocê mudou a minha ____."
-    f"\nTe amo como nunca amei ninguém."
-    f"\nTe quero como nunca quis um dia alguém."
-    f"\nVocê ____ a minha história."
-    "\n"
-    f"\nTodo dia à todo momento."
-    f"\nEstás presente no meu ____."
-    f"\nPerco a noção do tempo."
-    f"\nSó por causa de ____."
-    "\n"
-    f"\nTe amo como nunca amei ____."
-    f"\nTe quero como ____ ____ um dia alguém."
-    f"\nVocê mudou a minha história."
-    f"\nTe ____ como nunca amei ninguém."
-    f"\nTe quero como ____ quis um dia alguém."
-    f"\nVocê mudou a minha história."
-    "\n"
-    f"\nFeliz em ____."
-    f"\nEu ____ você."
-    f"\nNunca pensei que você."
-    f"\nMe ____ desse jeito."
-    f"\nSem ____ direito."
-    "\n"
-    f"\nImaginei que fosse um passatempo ____."
-    f"\nUma aventura de amor."
-    f"\nMas meu coração me enganou."
-    f"\nE ____ meu mundo é seu mundo."
-    f"\nSeu corpo em meu ____ é um só."
-    f"\nÉ um ____ maior."
-    "\n"
-    f"\nTe ____ como nunca ____ ____."
-    f"\nTe quero como nunca quis um dia ____."
-    f"\nVocê ____ a minha história."
-    f"\nTe amo como nunca amei ninguém."
-    f"\nTe quero como ____ quis um dia ____."
-    f"\nVocê ____ a minha história.\n"
-)
+# Mad Lib Game.
 
-print("Você deve prencher os espaços vazios '____' com alguma palavra.")
+word_01 = input("Enter the first word: \n")
+word_02 = input("Enter the second word: \n")
+word_03 = input("Enter the third word: \n")
+word_04 = input("Enter the fourth word: \n")
+word_05 = input("Enter the fifth word: \n")
+word_06 = input("Enter the sixth word: \n")
+
+print = (
+    f"The idea of this {word_01} is to develop a {word_02} game, playing with {word_03} and {word_04} ."
+    f"\nProgramming is a lot of fun, and I hope that soon I can {word_05} my {word_06}."
+)
