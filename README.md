@@ -1,7 +1,8 @@
-## Desafios de programação.
+## Python Data Products for Predictive Analytics.
 
-* [Let's Code]()
-* [Capgemini]()
-* [Outros]()
+* [Data Processing and Visualization]()
+* [Design Thinking and Predictive Analytics]()
+* [Meaningful Predictive Modeling]()
+* [Deploying ML Models]()
 
 ---
