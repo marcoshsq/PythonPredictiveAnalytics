@@ -2,6 +2,6 @@
 
 * [Let's Code]()
 * [Capgemini]()
-* [Jogos]()
+* [Outros]()
 
 ---
