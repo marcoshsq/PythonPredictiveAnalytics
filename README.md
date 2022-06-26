@@ -6,9 +6,9 @@
   <h2 align="center">Python Data Products for Predictive Analytics</h2>
 </div>
 
-## About:
+### About:
 
-This repository contains the projects and assignments developed during the Python Data Products for Predictive Analytics Specialization, offered by UC San Diego, available on Coursera.
+This repository contains my projects and assignments developed during the Python Data Products for Predictive Analytics Specialization, offered by UC San Diego, available on Coursera.
 
 ### About the Specialization:
 
@@ -16,8 +16,8 @@ This [specialization](https://www.coursera.org/specializations/python-data-produ
 
 1. [Basic Data Processing and Visualization](https://www.coursera.org/learn/basic-data-processing-visualization-python?specialization=python-data-products-for-predictive-analytics)
 2. [Design Thinking and Predictive Analytics for Data Products](https://www.coursera.org/learn/design-thinking-predictive-analytics-data-products?specialization=python-data-products-for-predictive-analytics)
-3. []()
-4. []()
+3. [Meaningful Predictive Modeling](https://www.coursera.org/learn/meaningful-predictive-modeling?specialization=python-data-products-for-predictive-analytics)
+4. [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models?specialization=python-data-products-for-predictive-analytics)
 
 Below are links to the directories with the projects and assignments developed, along with a brief description of what has been studied in the course.
 
@@ -45,12 +45,27 @@ The second course of the specialization, based on the data processing covered in
 
 Learning goals: ``Supervised Learning``, ``Features``, ``Classification``, ``Gradient Descent``, ``Regression``.
 
-## [Course 03]() - 
+## [Course 03]() - Meaningful Predictive Modeling.
 
-Learning goals: ``a``,
+    Week 1: Diagnostics for Data;
+    Week 2: Codebases, Regularization, and Evaluating a Model;
+    Week 3: Validation and Pipelines;
+    Week 4: Final Project.
 
-## [Course 04]() - 
+The objective of this course is to learn how to develop methods for evaluating the efficiency of Machine Learning models.
 
-Learning goals: ``a``,
+Learning goals: ``Data Diagnostics``, ``Pipelines``, ``Evaluating``, ``Regularization``.
+
+## [Course 04]() - Deploying Machine Learning Models.
+
+    Week 1: Introduction to Recommender Systems;
+    Week 2: Implementing Recommender Systems;
+    Week 3: Deploying Recommender Systems; 
+    Week 4: Project - Recommender System;
+    Week 5: Capstone Project.
+
+The purpose of this course is to teach about Recommender Systems and also learn about deployment issues for data products.
+
+Learning goals: ``Big Data Products``, ``Recommender Systems``.
 
 ---
